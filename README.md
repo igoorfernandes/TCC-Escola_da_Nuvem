@@ -1,9 +1,9 @@
 # Projeto de TCC da Escola da Nuvem
 
 ## Sobre o projeto
-Neste repositório, você encontrará a criação de um portfólio contendo os currículos dos alunos da Escola da Nuvem - Grupo 5.
+> Neste repositório, você encontrará a criação de um portfólio contendo os currículos dos alunos da Escola da Nuvem - Grupo 5.
 
-O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos da Escola da Nuvem utilizando tecnologias simples como HTML5, CSS3 e JavaScript. O projeto foi realizado no curso "AWS Fundamentos" que é um curso da Escola da Nuvem, uma organização não governamental (ONG) que prepara estudantes para carreiras na nuvem e os conecta a potenciais empregadores.
+* O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos da Escola da Nuvem utilizando tecnologias simples como HTML5, CSS3 e JavaScript. O projeto foi realizado no curso "AWS Fundamentos" que é um curso da Escola da Nuvem, uma organização não governamental (ONG) que prepara estudantes para carreiras na nuvem e os conecta a potenciais empregadores.
 
 ## Tecnologias utilizadas
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -23,21 +23,22 @@ O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos
 </table>
 
 
-### Como executar o projeto
-Faça um clone deste repositório para o seu ambiente de desenvolvimento local.
+## Como executar o projeto
+* Faça um clone deste repositório para o seu ambiente de desenvolvimento local.
 ```
 git clone https://github.com/igoorfernandes/TCC-Escola_da_Nuvem.git
 ```
-Abra o arquivo index.html no seu navegador web.
+* Abra o arquivo index.html no seu navegador web.
 O portfólio será carregado e você poderá navegar pelos currículos dos alunos.
 
 
-### Funcionalidades principais
-Apresentação dos currículos dos alunos da Escola da Nuvem - Grupo 5.
+## Funcionalidades principais
+* Apresentação dos currículos dos alunos da Escola da Nuvem - Grupo 5.
 Exibição de informações pessoais, habilidades, projetos e experiência educacional de cada aluno.
 Navegação fácil entre os currículos dos alunos.
-Contribuindo
-Se você deseja contribuir para o projeto, siga as etapas abaixo:
+
+## Capturas de Tela
+> Aqui estão algumas imagens do projeto. 
 
 ![head](images/head-site.png)
 ![mid](images/mid-site.png)
@@ -46,5 +47,5 @@ Se você deseja contribuir para o projeto, siga as etapas abaixo:
 O repositório está sob a licença MIT. Para mais detalhes, acesse <a href="https://github.com/igoorfernandes/TCC-Escola_da_Nuvem/blob/main/LICENSE">license</a>.
 <br>
 
-Feito por <a href="https://github.com/igoorfernandes">Igor Fernandes</a>
+Feito por <a href="https://github.com/igoorfernandes">Igor Fernandes 👨‍💻.</a>
 <br>
