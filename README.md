@@ -5,7 +5,7 @@
 ## Sobre o projeto
 > Neste repositório, você encontrará a criação de um portfólio contendo os currículos dos alunos da Escola da Nuvem - Grupo 5.
 
-* O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos da Escola da Nuvem utilizando tecnologias simples como HTML5, CSS3 e JavaScript. O projeto foi realizado no curso "AWS Fundamentos" que é um curso da Escola da Nuvem, uma organização não governamental (ONG) que prepara estudantes para carreiras na nuvem e os conecta a potenciais empregadores.
+* O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos da Escola da Nuvem utilizando tecnologias simples como HTML5, CSS3 e JavaScript. O projeto foi realizado no curso "AWS Fundamentos" que é um curso da Escola da Nuvem.
 
 ## Tecnologias utilizadas
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
