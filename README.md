@@ -14,7 +14,7 @@ O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos
 ### Autores:
 <table>
 <tr>
-<td align="center"><a href="https://github.com/igoorfernandes"><img style="border-radius: 50%;" src="https://github.com/beatrizcarvalho97.png" width="100px;" alt="Igor Barros da Cruz Fernandes"/><br /><sub><b>Igor Barros da Cruz Fernandes</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/igoorfernandes"><img style="border-radius: 50%;" src="https://github.com/igoorfernandes.png" width="100px;" alt="Igor Barros da Cruz Fernandes"/><br /><sub><b>Igor Barros da Cruz Fernandes</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/renanrcs"><img style="border-radius: 50%;" src="https://github.com/renanrcs.png" width="100px;" alt="Renan Cavalcante de Sousa"/><br /><sub><b>Renan Cavalcante de Sousa</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/Waltersilverio23"><img style="border-radius: 50%;" src="https://github.com/Waltersilverio23.png" width="100px;" alt="Walter Silvério"/><br /><sub><b>Walter Silvério</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/lilianmendesf"><img style="border-radius: 50%;" src="https://github.com/lilianmendesf.png" width="100px;" alt="Lilian Mendes Ferreira"/><br /><sub><b>Lilian Mendes Ferreira</b></sub></a><br/></td>
@@ -27,7 +27,7 @@ O objetivo do projeto foi criar um portfólio contendo os currículos dos alunos
 Faça um clone deste repositório para o seu ambiente de desenvolvimento local.
 ```
 git clone https://github.com/igoorfernandes/TCC-Escola_da_Nuvem.git
-``
+```
 Abra o arquivo index.html no seu navegador web.
 O portfólio será carregado e você poderá navegar pelos currículos dos alunos.
 
