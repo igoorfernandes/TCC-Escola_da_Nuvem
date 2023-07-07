@@ -39,7 +39,7 @@ Navegação fácil entre os currículos dos alunos.
 Contribuindo
 Se você deseja contribuir para o projeto, siga as etapas abaixo:
 
-
+![captura](images/head.png)
 
 O repositório está sob a licença MIT. Para mais detalhes, acesse <a href="https://github.com/igoorfernandes/TCC-Escola_da_Nuvem/blob/main/LICENSE">license</a>.
 <br>
