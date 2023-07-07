@@ -1,5 +1,7 @@
 # Projeto de TCC da Escola da Nuvem
 
+![escola-da-nuvem](images/escola-da-nuvem.png)
+
 ## Sobre o projeto
 > Neste repositório, você encontrará a criação de um portfólio contendo os currículos dos alunos da Escola da Nuvem - Grupo 5.
 
