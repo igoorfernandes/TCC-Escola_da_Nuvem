@@ -42,7 +42,9 @@ Se você deseja contribuir para o projeto, siga as etapas abaixo:
 
 
 O repositório está sob a licença MIT. Para mais detalhes, acesse <a href="https://github.com/igoorfernandes/TCC-Escola_da_Nuvem/blob/main/LICENSE">license</a>.
+
 <br>
-Feito por <a href="https://github.com/igoorfernandes">Igor Fernandes</a>>
+Feito por <a href="https://github.com/igoorfernandes">Igor Fernandes</a>
 <br>
+
 Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
