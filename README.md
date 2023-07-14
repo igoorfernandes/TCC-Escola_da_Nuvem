@@ -19,9 +19,6 @@
 <td align="center"><a href="https://github.com/igoorfernandes"><img style="border-radius: 50%;" src="https://github.com/igoorfernandes.png" width="100px;" alt="Igor Barros da Cruz Fernandes"/><br /><sub><b>Igor Barros da Cruz Fernandes</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/renanrcs"><img style="border-radius: 50%;" src="https://github.com/renanrcs.png" width="100px;" alt="Renan Cavalcante de Sousa"/><br /><sub><b>Renan Cavalcante de Sousa</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/Waltersilverio23"><img style="border-radius: 50%;" src="https://github.com/Waltersilverio23.png" width="100px;" alt="Walter Silvério"/><br /><sub><b>Walter Silvério</b></sub></a><br/></td>
-<td align="center"><a href="https://github.com/lilianmendesf"><img style="border-radius: 50%;" src="https://github.com/lilianmendesf.png" width="100px;" alt="Lilian Mendes Ferreira"/><br /><sub><b>Lilian Mendes Ferreira</b></sub></a><br/></td>
-<td align="center"><a href="https://github.com/MattsxJ"><img style="border-radius: 50%;" src="https://github.com/MattsxJ.png" width="100px;" alt="Mateus Pereira Moreira"/><br /><sub><b>Mateus Pereira Moreira</b></sub></a><br/></td>
-<td align="center"><a href="https://github.com/RoxelleSass"><img style="border-radius: 50%;" src="https://github.com/RoxelleSass.png" width="100px;" alt="Roxelle Lamour de Oliveira Sass "/><br /><sub><b>Roxelle Lamour de Oliveira Sass </b></sub></a><br/></td>
 </table>
 
 
